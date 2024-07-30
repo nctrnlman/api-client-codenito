@@ -56,6 +56,6 @@ build/
 *.pdf
 
 # Ignore all files in the root directory except .gitignore and README.md
-/*
-!.gitignore
-!README.md
+# /*
+# !.gitignore
+# !README.md
